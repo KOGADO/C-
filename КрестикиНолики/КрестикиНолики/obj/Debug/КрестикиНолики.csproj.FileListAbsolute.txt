@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\bin\Debug\КрестикиНолики.exe.config
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\bin\Debug\КрестикиНолики.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\bin\Debug\КрестикиНолики.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\КрестикиНолики.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\КрестикиНолики_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\КрестикиНолики_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\КрестикиНолики.g.resources
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\КрестикиНолики.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\КрестикиНолики.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\КрестикиНолики.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\КрестикиНолики.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\КрестикиНолики\КрестикиНолики\obj\Debug\КрестикиНолики.pdb
